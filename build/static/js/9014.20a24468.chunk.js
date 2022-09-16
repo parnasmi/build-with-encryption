@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkennekt_front_end_client=self.webpackChunkkennekt_front_end_client||[]).push([[9014],{89014:function(n,e,t){t.r(e),t.d(e,{default:function(){return f}});t(47313);var c=t(46417);function f(){return(0,c.jsx)("div",{children:"Staff cases"})}}}]);
